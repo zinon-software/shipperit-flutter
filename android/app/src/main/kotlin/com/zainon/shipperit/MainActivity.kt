@@ -1,0 +1,6 @@
+package com.zainon.shipperit
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
